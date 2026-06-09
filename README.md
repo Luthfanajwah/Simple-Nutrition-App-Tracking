@@ -1,6 +1,5 @@
 # Simple Nutrition App Tracking
-Simple Application Nutrition Tracking using prompt with gemini
-🍏 Simple Nutrition App Tracking — AI-Powered Nutrition Logging via Gemini Prompt
+---
 
 Simple Nutrition App Tracking adalah aplikasi web interaktif yang dirancang untuk membantu pengguna melacak asupan nutrisi harian (kalori dan makronutrisi) hanya dengan mengetikkan teks biasa (prompt). Dengan memanfaatkan kekuatan **Gemini API**, aplikasi ini mampu mengurai kalimat kasual menjadi data nutrisi terstruktur secara instan.
 
@@ -41,3 +40,25 @@ Proyek ini dibangun secara kolaboratif oleh tim lintas disiplin ilmu yang memadu
 Simple-Nutrition-App-Tracking/
 ├── index.html              # Struktur UI Utama & Dashboard
 └── README.md
+```
+---
+
+### Cara Menjalankan Secara Lokal / Replit
+
+**Menjalankan di Replit (Cloud)
+**Buka akun Replit Anda.
+**Fork atau buat Repl baru dengan template HTML/CSS/JS.
+**Upload file index.html, style.css, dan script.js ke dalam Repl tersebut.
+**Tekan tombol *Run*.
+
+### Menjalankan di Lokal (PC/Laptop)
+
+**Clone repositori ini:
+```
+Bash
+git clone [https://github.com/Luthfanajwah/Simple-Nutrition-App-Tracking.git](https://github.com/Luthfanajwah/Simple-Nutrition-App-Tracking.git)
+cd Simple-Nutrition-App-Tracking
+```
+**Buka file index.html langsung di browser pilihan Anda (Double-click atau drag-and-drop).
+
+⚠️ Catatan Penting: Pastikan Anda telah memasukkan GEMINI_API_KEY Anda di dalam variabel konfigurasi pada file script.js agar fitur pengenalan makanan berbasis AI dapat berfungsi dengan normal.
