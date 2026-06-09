@@ -40,6 +40,4 @@ Proyek ini dibangun secara kolaboratif oleh tim lintas disiplin ilmu yang memadu
 ```text
 Simple-Nutrition-App-Tracking/
 ├── index.html              # Struktur UI Utama & Dashboard
-├── style.css               # Desain tata letak & styling (Responsive Design)
-├── script.js               # Logika aplikasi, manipulasi DOM, & Integrasi API Gemini
 └── README.md
