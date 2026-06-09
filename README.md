@@ -8,7 +8,7 @@ Proyek ini dikembangkan sebagai bagian dari acara **"RIPTECH AI Web-Dev Mini Hac
 
 🌐 Live Demo / Hosting
 Aplikasi ini telah dideploy dan dapat diakses langsung melalui Replit:
-🚀 **[Mainkan Aplikasi di Replit](https://asset-manager--luthfanajwah.replit.app/)**
+🚀 **[Gizi App](https://asset-manager--luthfanajwah.replit.app/)**
 
 ---
 
