@@ -1,4 +1,4 @@
-# Simple-Nutrition-App-Tracking
+# Simple Nutrition App Tracking
 Simple Application Nutrition Tracking using prompt with gemini
 🍏 Simple Nutrition App Tracking — AI-Powered Nutrition Logging via Gemini Prompt
 
